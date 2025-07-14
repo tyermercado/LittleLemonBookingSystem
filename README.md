@@ -2,9 +2,10 @@
 Please note that the only operational feature on this website is the "Reserve a Table" function.
 </p>
 
-## 📸 Screenshot
+## 📸 Screenshots
+
 ## 🏠 Landing Page
 ![Landing Page](restaurant/static/img/landingPage.jpg)
 
-
+## 📅 Book a Table Page
 ![Booking System Screenshot](restaurant/static/img/ssBS.jpg)
